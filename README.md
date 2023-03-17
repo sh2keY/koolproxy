@@ -9,78 +9,78 @@
 
 #### 规则地址一
 
-静态规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/koolproxy.txt
+静态规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/koolproxy.txt
 
-每日规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt
+每日规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/daily.txt
 
-视频规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/kp.dat
+视频规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/kp.dat
 
-AdGuard规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/adg.txt 
+AdGuard规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/adg.txt 
 
-Banben规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/adgk.txt
+Banben规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/adgk.txt
 
-Anti-AD规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/antiad.txt
+Anti-AD规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/antiad.txt
 
-Yhosts规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt
+Yhosts规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/yhosts.txt
 
-StevenBlack规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt
+StevenBlack规则：https://raw.iqiq.io/sh2key/koolproxy/master/rules/steven.txt
 
 
 
 #### 规则地址二
 
-静态规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/koolproxy.txt
+静态规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/koolproxy.txt
 
-每日规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/daily.txt
+每日规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/daily.txt
 
-视频规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/kp.dat
+视频规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/kp.dat
 
-AdGuard规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/adg.txt 
+AdGuard规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/adg.txt 
 
-Banben规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/adgk.txt
+Banben规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/adgk.txt
 
-Anti-AD规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/antiad.txt
+Anti-AD规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/antiad.txt
 
-Yhosts规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/yhosts.txt
+Yhosts规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/yhosts.txt
 
-StevenBlack规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/steven.txt
+StevenBlack规则：https://ghproxy.com/https://github.com/sh2key/koolproxy/blob/main/rules/steven.txt
 
 
 #### 规则地址三（有缓存）
 
-静态规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/koolproxy.txt
+静态规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/koolproxy.txt
 
-每日规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/daily.txt
+每日规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/daily.txt
 
-视频规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/kp.dat
+视频规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/kp.dat
 
-AdGuard规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/adg.txt 
+AdGuard规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/adg.txt 
 
-坂本手机规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/adgk.txt
+坂本手机规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/adgk.txt
 
-Anti-AD规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/antiad.txt
+Anti-AD规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/antiad.txt
 
-Yhosts规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/yhosts.txt
+Yhosts规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/yhosts.txt
 
-StevenBlack规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/steven.txt
+StevenBlack规则：https://cdn.jsdelivr.net/gh/sh2key/koolproxy@main/rules/steven.txt
 
 
 
 #### 规则地址四（有缓存）
 
-静态规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/koolproxy.txt
+静态规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/koolproxy.txt
 
-每日规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/daily.txt
+每日规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/daily.txt
 
-视频规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/kp.dat
+视频规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/kp.dat
 
-AdGuard规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/adg.txt 
+AdGuard规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/adg.txt 
 
-坂本手机规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/adgk.txt
+坂本手机规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/adgk.txt
 
-Anti-AD规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/antiad.txt
+Anti-AD规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/antiad.txt
 
-Yhosts规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/yhosts.txt
+Yhosts规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/yhosts.txt
 
-StevenBlack规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/steven.txt
+StevenBlack规则：https://raw.gitmirror.com/sh2key/koolproxy/main/rules/steven.txt
 
